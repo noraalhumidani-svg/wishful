@@ -1,4 +1,5 @@
-# Credentials — never commit the real plist, only the .example
+# Credentials — never commit these
+wishful/TwilioCredentials.swift
 wishful/TwilioConfig.plist
 
 # Xcode
