@@ -1,0 +1,11 @@
+# Credentials — never commit the real plist, only the .example
+wishful/TwilioConfig.plist
+
+# Xcode
+*.xcuserstate
+*.xcbkptlist
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
